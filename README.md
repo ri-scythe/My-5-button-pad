@@ -44,4 +44,3 @@ This macropad uses [QMK](https://qmk.fm/) firmware.
 The firmware was made by Claude AI, the gifs and drawings on the case were drawn by me.
 
 Fun fact: i actually had a black bunny
-- 6x 1N4148 Diodes

@@ -2,10 +2,7 @@
 A custom 5 button macropad built for the Hack Club Hackpad project. It features 2 layers for shortcuts and gifs, 5 keycaps, OLED screen and a rotary encoder. 
 
 # CAD
-Everything fits together using 4 M3 bolts and 4 hetset inserts. The case is made of 2 separate printed pieces.
 
-<img width="754" height="699" alt="Снимок экрана 2026-03-01 235723" src="https://github.com/user-attachments/assets/84c59a9c-7084-4015-bf09-c86307bdaf64" />
-<img width="996" height="718" alt="Снимок экрана 2026-03-01 235750" src="https://github.com/user-attachments/assets/37aa3caa-eed0-4725-a848-faa4b8ceb1cf" />
 
 
 # PCB
@@ -13,7 +10,7 @@ Created in KiCad.
 
 PCB 
 
-<img width="892" height="799" alt="Снимок экрана 2026-03-01 235914" src="https://github.com/user-attachments/assets/cf9be02b-2748-41ab-8d71-23798e72bf62" />
+
 
 Schematic
 
@@ -39,8 +36,6 @@ This macropad uses [QMK](https://qmk.fm/) firmware.
 - 6x Through-hole 1N4148 Diodes
 - 1x Case(2 separate parts)
 
-# Extra
+# Fun fact
 
-The firmware was made by Claude AI, the gifs and drawings on the case were drawn by me.
-
-Fun fact: i actually had a black bunny
+i actually had a black bunny

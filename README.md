@@ -10,12 +10,11 @@ Created in KiCad.
 
 PCB 
 
-<img width="961" height="800" alt="anydesk00002" src="https://github.com/user-attachments/assets/eeea361e-75fe-404e-b6cd-483bf1bd5bfa" />
+<img width="914" height="801" alt="anydesk00000-1" src="https://github.com/user-attachments/assets/6216b58f-a37a-4e23-9892-9876557b7064" />
 
 Schematic
 
-<img width="1387" height="857" alt="Снимок экрана 2026-03-01 235835" src="https://github.com/user-attachments/assets/82d16930-6bf2-408d-a53e-fabdfbe122dd" />
-
+<img width="1390" height="835" alt="anydesk00001-1" src="https://github.com/user-attachments/assets/31bb51d6-f81d-496d-adcd-0baaeeb3ed31" />
 
 # Firmware
 This macropad uses [QMK](https://qmk.fm/) firmware.

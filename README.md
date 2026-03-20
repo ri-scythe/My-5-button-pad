@@ -3,14 +3,14 @@ A custom 5 button macropad built for the Hack Club Hackpad project. It features 
 
 # CAD
 
-
+<img width="807" height="738" alt="anydesk00000" src="https://github.com/user-attachments/assets/9569529f-40df-4314-884f-6022d3b7bc3d" />
 
 # PCB
 Created in KiCad.
 
 PCB 
 
-
+<img width="961" height="800" alt="anydesk00002" src="https://github.com/user-attachments/assets/eeea361e-75fe-404e-b6cd-483bf1bd5bfa" />
 
 Schematic
 
